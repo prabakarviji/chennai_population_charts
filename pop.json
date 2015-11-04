@@ -1,0 +1,17 @@
+{
+
+  "value":[
+      {"year":"1901","population":509346},
+      {"year":"1911","population":518660},
+      {"year":"1921","population":526911},
+      {"year":"1931","population":647232},
+      {"year":"1941","population":777481},
+      {"year":"1951","population":1416056},
+      {"year":"1961","population":1729141},
+      {"year":"1971","population":2469449},
+      {"year":"1981","population":3266034},
+      {"year":"1991","population":3841396},
+      {"year":"2001","population":4343645},
+      {"year":"2011","population":4681087}
+  ]
+}

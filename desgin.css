@@ -1,0 +1,103 @@
+body{
+  margin: 0;
+}
+.mainHeader{
+  text-align: center;
+  float: left;
+  width: 100%;
+  padding: 12px 0;
+  background-color: crimson;
+  font-size: 26px;
+  color: ghostwhite;
+  font-weight: bold;
+}
+.tablePanel{
+  float: left;
+  background-color: blanchedalmond;
+}
+.chartHeader{
+  text-align: center;
+  float: left;
+  width: 100%;
+  padding: 8px 0;
+  background-color: crimson;
+  color: ghostwhite;
+  font-weight: bold;
+}
+.rectBars{
+
+  fill:indigo;
+}
+.chartTypePanel{
+  float: left;
+  width: 94%;
+  margin: 2% 2%;
+  padding: 2% 1%;
+
+}
+.typeCol{
+  float: left;
+  width:30%;
+  text-align: center;
+}
+
+.chartTypes{
+
+  float: left;
+  width:70%;
+  height: 23px;
+}
+.dataPanel{
+  float: left;
+  width:26%;
+  border-radius: 4px;
+  margin-right: 1%;
+  border: 1px solid crimson;
+  margin: 1% 1%;
+}
+
+.theader1, .theader2{
+  float: left;
+  width: 47%;
+  text-align: center;
+  padding: 8px 5px;
+  background-color: crimson;
+  color: ghostwhite;
+  font-weight: bold;
+}
+#tcolumn1{
+  border-right:1px solid crimson;
+}
+.tcolumn1, .tcolumn2{
+  float: left;
+  width: 46%;
+  text-align: center;
+  padding: 8px 6px;
+  border-bottom:1px solid crimson;
+}
+
+
+.axisLabel{
+
+  fill:crimson;
+}
+#chartPanel{
+  float: left;
+  width: 68%;
+  border: 1px solid crimson;
+  border-radius:4px;
+  margin: 1% 1%;
+  background-color: bisque;
+}
+.x axis line,path{
+  stroke: Black;
+  fill:none;
+  stroke-width:2px
+}
+
+.tick line{
+  stroke: #ccc;
+  fill:none;
+  stroke-width:0.5px
+  z-index:0;
+}
